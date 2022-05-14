@@ -7,7 +7,7 @@
     width: 650px;
     height: 62px;
     background-color: #EEEEEE;
-    margin:0px auto 0px auto;    
+    margin:0px auto 3px auto;    
 }
 
 .alt3lu{
@@ -19,6 +19,7 @@
 .altmenu1{
     width: 238px;
     height: 76px;
+    margin-left: 1px;
     float: left;
     background-color: #7EE5DA;
 }
@@ -27,13 +28,21 @@
     width: 125px;
     height: 76px;
     margin: auto;
-    margin-left: 2px;
+    margin-left: 2.5px;
     font-size:small;
     float: left;
     background-color: #70CCC2;
-
-
 }
+
+.altmenu3{
+    width: 280px;
+    height: 76px;
+    margin: auto;
+    float: left;
+    margin-left: 3px;
+    background-color: #62B3AA;
+}
+
 .link{
     width: 120px;
     margin-right: auto;
