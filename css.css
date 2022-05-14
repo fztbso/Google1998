@@ -1,4 +1,41 @@
 .logo{
-    width: 351;
-    
+    width: 351px;
+    height: 113px;
+    margin:0px auto 0px auto;
+}
+.search{
+    width: 650px;
+    height: 62px;
+    background-color: #EEEEEE;
+    margin:0px auto 0px auto;    
+}
+
+.alt3lu{
+    width: 650px;
+    height: 76px;
+    margin: auto;
+}
+
+.altmenu1{
+    width: 238px;
+    height: 76px;
+    float: left;
+    background-color: #7EE5DA;
+}
+
+.altmenu2{
+    width: 125px;
+    height: 76px;
+    margin: auto;
+    margin-left: 2px;
+    font-size:small;
+    float: left;
+    background-color: #70CCC2;
+
+
+}
+.link{
+    width: 120px;
+    margin-right: auto;
+    margin-left: auto;
 }
